@@ -1,0 +1,14 @@
+let placesToVisit = ["Japan", "Uae", "Egypt", "Usa", "Switzerland"];
+console.log(placesToVisit);
+console.log([ ...placesToVisit].sort());
+console.log( placesToVisit);
+console.log([...placesToVisit].sort().reverse());
+console.log(placesToVisit);
+placesToVisit.reverse();
+console.log(placesToVisit);
+placesToVisit.reverse();
+console.log(placesToVisit);
+placesToVisit.sort();
+console.log(placesToVisit);
+placesToVisit.reverse();
+console.log(placesToVisit);
